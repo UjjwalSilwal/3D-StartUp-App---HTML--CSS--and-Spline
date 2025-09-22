@@ -87,6 +87,8 @@ nav a:hover{
     font-weight: 500;
     transition: background-color 0.2s ease;
     cursor: pointer;
+    position: relative;
+    z-index: 999; /* higher than .layer-blur and .image-gradient */
 }
 
 .btn-signing:hover{
