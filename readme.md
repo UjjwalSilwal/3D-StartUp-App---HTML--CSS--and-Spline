@@ -1,9 +1,9 @@
 # Deployment : 
-[]
+[https://3-d-start-up-app-html-css-and-splin.vercel.app/]
 
 <h2>Output</h2>
 <p align="center">
-  <img src="" alt="" width="80%">
+  <img src="thumbnail.png" alt="" width="80%">
 </p>
 
 <h3>CSS</h3>
