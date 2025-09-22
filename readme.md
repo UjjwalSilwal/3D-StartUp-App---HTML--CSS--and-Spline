@@ -26,4 +26,5 @@
 <h3>links</h3>
 <ul>
   <li>Spline - Sign in -Community - Robot follow cursor for landing page - Remix</li>
+  <li>Spline - Robot follow cursor for landing page MC - Remix - Export - Update public URL - Overview - Viewer - CopyEmbed - HTML-Body</li>
 </ul>
