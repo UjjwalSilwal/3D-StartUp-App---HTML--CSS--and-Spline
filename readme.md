@@ -20,11 +20,15 @@
 
 <h3>Spline</h3>
 <ul>
-  <li></li>
+<li>Spline - Sign in -Community - Robot follow cursor for landing page - Remix</li>
+  <li>Spline - Robot follow cursor for landing page MC - Remix - Export - Update public URL - Overview - Viewer - CopyEmbed - HTML-Body</li>
+
 </ul>
 
 <h3>links</h3>
 <ul>
-  <li>Spline - Sign in -Community - Robot follow cursor for landing page - Remix</li>
-  <li>Spline - Robot follow cursor for landing page MC - Remix - Export - Update public URL - Overview - Viewer - CopyEmbed - HTML-Body</li>
+    <li>AOS - michalsnik.github.io/aos --> Scroll Animation</li>
+    <li>AOS - michalsnik.github.io/aos - Top Right - Github Icon - Installation - basic - link - HTML-head</li>
+    <li>AOS - michalsnik.github.io/aos - Top Right - Github Icon - Installation - basic - script - HTML-body</li>
+    <li>div-data-aos="fade-down" data-aos-duration="1500"</li>
 </ul>
