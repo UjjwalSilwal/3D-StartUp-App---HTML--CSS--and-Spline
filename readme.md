@@ -18,7 +18,7 @@
    <li>inset: 3px 3px 3px 3px;</li>
 </ul>
 
-<h3>Spline</h3>
+<h3>Spline -> 3D Library</h3>
 <ul>
 <li>Spline - Sign in -Community - Robot follow cursor for landing page - Remix</li>
   <li>Spline - Robot follow cursor for landing page MC - Remix - Export - Update public URL - Overview - Viewer - CopyEmbed - HTML-Body</li>
